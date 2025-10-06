@@ -74,8 +74,8 @@ Este projeto segue **[Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/)
 - README atualizado com diagrama de fluxo (evento → listener → orchestrator → strategy → gateway) e instruções de testes locais.
 
 ### Pull Request
-- PR: **#<NUMERO_DA_PR>** — _Refactor: notificação por eventos + Strategy/Factory_.
-- Autores: @<seu_usuario> @<usuario_colega>.
+- PR: **#1** — _Refactor: notificação por eventos + Strategy/Factory_.
+- Autores: @guibellonia @MauricioHansen.
 
 ---
 
